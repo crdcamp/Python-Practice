@@ -21,3 +21,5 @@
 [Math Methods](https://www.w3schools.com/python/module_math.asp)
 
 [Python Objects and JavaScript Equivalents](https://www.w3schools.com/python/python_json.asp)
+
+[Regular Expressions](https://www.w3schools.com/python/python_regex.asp)
