@@ -23,3 +23,5 @@
 [Python Objects and JavaScript Equivalents](https://www.w3schools.com/python/python_json.asp)
 
 [Regular Expressions](https://www.w3schools.com/python/python_regex.asp)
+
+[Python Built-in Exceptions](https://www.w3schools.com/python/python_ref_exceptions.asp)
