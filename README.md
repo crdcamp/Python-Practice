@@ -25,3 +25,5 @@
 [Regular Expressions](https://www.w3schools.com/python/python_regex.asp)
 
 [Python Built-in Exceptions](https://www.w3schools.com/python/python_ref_exceptions.asp)
+
+[F-String Formatting Types](https://www.w3schools.com/python/python_string_formatting.asp)
