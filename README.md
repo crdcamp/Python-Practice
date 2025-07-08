@@ -1,5 +1,7 @@
 # Resources
 
+## Relearning Python
+
 [All Lessons](https://www.w3schools.com/python/default.asp)
 
 [String Methods](https://www.w3schools.com/python/python_strings_methods.asp)
@@ -27,3 +29,7 @@
 [Python Built-in Exceptions](https://www.w3schools.com/python/python_ref_exceptions.asp)
 
 [F-String Formatting Types](https://www.w3schools.com/python/python_string_formatting.asp)
+
+## NumPy
+
+[Vectors and Matrices](https://www.statlect.com/matrix-algebra/vectors-and-matrices)
