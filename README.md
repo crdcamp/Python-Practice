@@ -33,3 +33,7 @@
 ## NumPy
 
 [Vectors and Matrices](https://www.statlect.com/matrix-algebra/vectors-and-matrices)
+
+## Learning About Machine Learning
+
+[Logistical Regression in Machine Learning](https://www.geeksforgeeks.org/machine-learning/understanding-logistic-regression/)
